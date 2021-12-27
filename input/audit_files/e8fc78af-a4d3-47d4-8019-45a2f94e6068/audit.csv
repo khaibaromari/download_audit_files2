@@ -1,0 +1,199 @@
+event,node,start,end
+form start,,1639291050064,
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639291050065,1639291051142
+question,/ameM9v8nctyy8MRHMJfRX7/consent,1639291051149,1639291053299
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/organization,1639291053305,1639291055530
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/assessment_code,1639291055539,1639291059725
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/province,1639291059731,1639291065783
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/district,1639291065855,1639291072459
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/village,1639291072471,1639291091276
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/district,1639291091285,1639291092338
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/province,1639291092347,1639291092997
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/assessment_code,1639291093004,1639291093674
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/organization,1639291093681,1639291094894
+question,/ameM9v8nctyy8MRHMJfRX7/consent,1639291094901,1639291096050
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/organization,1639291096060,1639291097075
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/assessment_code,1639291097084,1639291097685
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/province,1639291097692,1639291098738
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/district,1639291098745,1639291099482
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/village,1639291099489,1639291103125
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/district,1639291103133,1639291104361
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/province,1639291104371,1639291105189
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/assessment_code,1639291105197,1639291106743
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/province,1639291106751,1639291107662
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/district,1639291107671,1639291108498
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/village,1639291108506,1639291175253
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/gps,1639291175261,1639291196235
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/date_assessment,1639291196244,1639291199570
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/org/interviewer_name,1639291199579,1639291204584
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/hh_note,1639291204598,1639291205944
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/name,1639291205953,1639291256815
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/father_name,1639291256822,1639291284848
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/respondent_age,1639291284856,1639291341076
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/respondent_gender,1639291341083,1639291347869
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/contact_num,1639291347877,1639291373304
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/sec_contact_num,1639291373312,1639291393542
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/id_type,1639291393550,1639291396425
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/nid_no,1639291396433,1639291420347
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/respondent_hohh,1639291420356,1639291431320
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/hh_mem,1639291431334,1639291437954
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/new_born_female,1639291437960,1639291590890
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/new_born_male,1639291590898,1639291592618
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/girls_5,1639291592626,1639291594640
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/boys_5,1639291594648,1639291596303
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/girls_6_17,1639291596312,1639291602420
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/boys_6_17,1639291602425,1639291603890
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/adult_18_59_female,1639291603897,1639291613500
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/adult_18_59_male,1639291613506,1639291615221
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/elders_60_abv_female,1639291615229,1639291618714
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/elders_60_abv_male,1639291618721,1639291620385
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/p_l_w,1639291620392,1639291623292
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/total_mem_confirm,1639291623299,1639291626801
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/p_l_w,1639291626810,1639291627503
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/elders_60_abv_male,1639291627510,1639291628147
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/elders_60_abv_female,1639291628155,1639291628799
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/adult_18_59_male,1639291628806,1639291629375
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/adult_18_59_female,1639291629382,1639291629944
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/boys_6_17,1639291629954,1639291630604
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/girls_6_17,1639291630613,1639291631164
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/boys_5,1639291631178,1639291631807
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/girls_5,1639291631815,1639291632392
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/new_born_male,1639291632401,1639291633044
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/new_born_female,1639291633053,1639291633695
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/hh_mem,1639291633703,1639291634473
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_details/respondent_hohh,1639291634483,1639291635475
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/hh_mem,1639291635484,1639291638725
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/new_born_female,1639291638733,1639291639286
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/new_born_male,1639291639293,1639291639837
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/girls_5,1639291639844,1639291640322
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/boys_5,1639291640330,1639291640808
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/girls_6_17,1639291640818,1639291641265
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/boys_6_17,1639291641279,1639291641725
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/adult_18_59_female,1639291641732,1639291642210
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/adult_18_59_male,1639291642224,1639291642696
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/elders_60_abv_female,1639291642704,1639291643180
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/elders_60_abv_male,1639291643188,1639291643789
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_composition/p_l_w,1639291643798,1639291644491
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_vuln_factors/diff_seeing,1639291644499,1639291655797
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_vuln_factors/diff_hearing,1639291655804,1639291657419
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_vuln_factors/hhh_diff_hearing,1639291657427,1639291660434
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_vuln_factors/diff_walking,1639291660441,1639291666017
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_vuln_factors/diff_remembering,1639291666025,1639291668682
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_vuln_factors/hhh_diff_remembering,1639291668691,1639291670419
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_vuln_factors/diff_self_care,1639291670426,1639291672132
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_vuln_factors/diff_communicating,1639291672141,1639291673703
+question,/ameM9v8nctyy8MRHMJfRX7/general_info/hh_vuln_factors/heatlh_issue,1639291673713,1639291678441
+question,/ameM9v8nctyy8MRHMJfRX7/hh_displacement/current_status,1639291678451,1639291684792
+question,/ameM9v8nctyy8MRHMJfRX7/hh_displacement/displaced_province,1639291684800,1639291690799
+question,/ameM9v8nctyy8MRHMJfRX7/hh_displacement/displaced_district,1639291690834,1639291693841
+question,/ameM9v8nctyy8MRHMJfRX7/hh_displacement/displacement_duration,1639291693852,1639291698854
+question,/ameM9v8nctyy8MRHMJfRX7/hh_displacement/move_intention,1639291698862,1639291700969
+question,/ameM9v8nctyy8MRHMJfRX7/shock_impact/event_affected,1639291700976,1639291703767
+question,/ameM9v8nctyy8MRHMJfRX7/shock_impact/loss_family_member,1639291703774,1639291710402
+question,/ameM9v8nctyy8MRHMJfRX7/assistance/assist_received,1639291710412,1639291720053
+question,/ameM9v8nctyy8MRHMJfRX7/coping_strategies/insuff_food,1639291720061,1639291730712
+question,/ameM9v8nctyy8MRHMJfRX7/coping_strategies/sold_asset,1639291730721,1639291738297
+question,/ameM9v8nctyy8MRHMJfRX7/coping_strategies/seek_employment,1639291738308,1639291745918
+question,/ameM9v8nctyy8MRHMJfRX7/coping_strategies/working,1639291745926,1639291748273
+question,/ameM9v8nctyy8MRHMJfRX7/coping_strategies/borrow,1639291748284,1639291751089
+question,/ameM9v8nctyy8MRHMJfRX7/coping_strategies/medical_attention,1639291751098,1639291754457
+question,/ameM9v8nctyy8MRHMJfRX7/coping_strategies/early_marry,1639291754468,1639291756986
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/hh_eat_note,1639291756996,1639291758322
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/cereal,1639291758331,1639291761159
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/pulse,1639291761167,1639291763849
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/vegetable,1639291763857,1639291766790
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/fruit,1639291766798,1639291770024
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/meat,1639291770032,1639291771954
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/dairy,1639291771962,1639291776433
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/sugar,1639291776440,1639291778663
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/oil,1639291778672,1639291780560
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/condiment,1639291780567,1639291783232
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/hh_had_to_note,1639291783239,1639291785914
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/less_food,1639291785922,1639291787981
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/borrow_food,1639291787988,1639291789652
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/limit_mealtime,1639291789660,1639291791314
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/restrict_consumption,1639291791323,1639291792943
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/reduce_meal,1639291792950,1639291794639
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/shelter_type,1639291794645,1639291798072
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/shelter_resident,1639291798081,1639291800829
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/tenure_status,1639291800835,1639291803804
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/shelter_concern,1639291803813,1639291808793
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/nfi_need,1639291808800,1639291817942
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/water_access,1639291817952,1639291823206
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/water_source,1639291823216,1639291824033
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/water_access,1639291824041,1639291825371
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/water_source,1639291825377,1639291829757
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/water_far_distance,1639291829764,1639291832172
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/latrine_access,1639291832180,1639291835683
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/latrine_disability_friendly,1639291835691,1639291857173
+question,/ameM9v8nctyy8MRHMJfRX7/sectoral_needs/handwashing_facilities,1639291857181,1639291862989
+question,/ameM9v8nctyy8MRHMJfRX7/health/health_fac_2hours,1639291862997,1639291865763
+question,/ameM9v8nctyy8MRHMJfRX7/health/health_barriers,1639291865772,1639291871052
+question,/ameM9v8nctyy8MRHMJfRX7/economic_profile/debt_amount,1639291871061,1639291903966
+question,/ameM9v8nctyy8MRHMJfRX7/economic_profile/debt_expenditure,1639291903974,1639291911378
+question,/ameM9v8nctyy8MRHMJfRX7/economic_profile/adult_working,1639291911388,1639291919834
+question,/ameM9v8nctyy8MRHMJfRX7/protection/protection_question,1639291919843,1639291928082
+question,/ameM9v8nctyy8MRHMJfRX7/protection/environmental_dangers,1639291928091,1639291930772
+question,/ameM9v8nctyy8MRHMJfRX7/assistance_mod/assist_preference,1639291930780,1639291940823
+question,/ameM9v8nctyy8MRHMJfRX7/assistance_mod/cash_safe_market,1639291940830,1639291956449
+question,/ameM9v8nctyy8MRHMJfRX7/assistance_mod/feedback_preference,1639291956458,1639291972534
+question,/ameM9v8nctyy8MRHMJfRX7/comment_box,1639291972544,1639291975417
+end screen,,1639291975424,1639292229456
+form save,,1639292229648,
+form exit,,1639292229648,
+form finalize,,1639292229649,
+form resume,,1639296239928,
+jump,,1639296239928,1639296255647
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296255673,1639296262800
+form exit,,1639296262800,
+form resume,,1639296266162,
+jump,,1639296266163,1639296287982
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296288010,1639296289764
+form exit,,1639296289764,
+form resume,,1639296364249,
+jump,,1639296364249,1639296370598
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296370627,1639296372911
+form save,,1639296373144,
+form exit,,1639296373144,
+form finalize,,1639296373144,
+form resume,,1639296376210,
+jump,,1639296376211,1639296382797
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296382824,1639296384587
+form exit,,1639296384587,
+form resume,,1639296388124,
+jump,,1639296388125,1639296402786
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296402814,1639296404616
+form exit,,1639296404616,
+form resume,,1639296407999,
+jump,,1639296407999,1639296435767
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296435796,1639296438709
+form exit,,1639296438708,
+form resume,,1639296526886,
+jump,,1639296526887,1639296539753
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296539783,1639296542011
+form exit,,1639296542011,
+form resume,,1639296563170,
+jump,,1639296563170,1639296670497
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296670524,1639296673458
+form exit,,1639296673458,
+form resume,,1639296688723,
+jump,,1639296688723,1639296797172
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296797199,1639296798829
+form exit,,1639296798829,
+form resume,,1639296802642,
+jump,,1639296802642,1639296816910
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296816936,1639296818624
+form exit,,1639296818624,
+form resume,,1639296822985,
+jump,,1639296822985,1639296830644
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296830673,1639296832344
+form exit,,1639296832344,
+form resume,,1639296835581,
+jump,,1639296835581,1639296907148
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296907181,1639296908802
+form exit,,1639296908802,
+form resume,,1639296912524,
+jump,,1639296912524,1639296931005
+question,/ameM9v8nctyy8MRHMJfRX7/intro_note,1639296931032,1639296933277
+form exit,,1639296933277,
+
